@@ -1,12 +1,36 @@
-- 👋 Hi, I’m @sharukshaik987
-- 👀 I’m interested in ...datascience and analytics
-- 🌱 I’m currently learning ...machine learning
-- 💞️ I’m looking to collaborate on data analysis and ML projects
-- 📫 How to reach me @ sharukusa987@gmail.com
-- 😄 Pronouns: ...Mr/he/him
-- ⚡ Fun fact: ... i am more motivated that you think
+# Sharuk - Data Science and AI/ML Enthusiast
 
-<!---
-sharukshaik987/sharukshaik987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Introduction
+Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science** and **Artificial Intelligence/Machine Learning**. I enjoy solving complex problems with data-driven solutions and leveraging advanced tools and techniques to uncover meaningful insights.
+
+## Skills
+- **Programming Languages**: Python, SQL
+- **Data Analysis Tools**: MS Excel, Power BI, Tableau
+- **Databases**: MySQL, MSSQL, Snowflake
+- **Cloud Platforms**: AWS
+- **Specialized Skills**:
+  - Data Cleaning and Preprocessing
+  - Data Visualization
+  - Building and Deploying Machine Learning Models
+
+## Tools & Technologies
+- **MS Excel**: Data cleaning, advanced analytics, and reporting.
+- **MySQL & MSSQL**: Database management, querying, and optimization.
+- **Snowflake**: Cloud-based data warehousing.
+- **AWS**: Cloud computing services for deployment and scalability.
+- **Power BI & Tableau**: Interactive dashboards and data visualization.
+
+## Interests
+- **Data Science**: Exploring patterns in data, predictive modeling, and statistical analysis.
+- **AI/ML**: Creating intelligent solutions using supervised and unsupervised learning, NLP, and deep learning.
+
+## Contact
+Feel free to connect with me to collaborate or discuss anything related to Data Science or AI/ML. I'm always eager to learn and share knowledge.
+
+- **Email**: [YourEmail@example.com]
+- **LinkedIn**: [YourLinkedInProfile](https://linkedin.com)
+- **GitHub**: [YourGitHubUsername](https://github.com)
+
+---
+
+If you'd like me to further customize this or add anything specific, let me know!
