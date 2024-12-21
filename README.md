@@ -27,8 +27,8 @@ Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science** an
 ## Contact
 Feel free to connect with me to collaborate or discuss anything related to Data Science or AI/ML. I'm always eager to learn and share knowledge.
 
-- **Email**: [YourEmail@example.com]
-- **LinkedIn**: [YourLinkedInProfile](www.linkedin.com/in/sharukshaik987)
+- **Email**: [sharukusa987@gmail.com]
+- **LinkedIn**: [sharuk shaik](www.linkedin.com/in/sharukshaik987)
 - **GitHub**: [YourGitHubUsername](https://github.com)
 
 ---
