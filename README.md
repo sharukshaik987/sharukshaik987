@@ -1,13 +1,11 @@
-# Sharuk - Data Science and Analytics
-
 ## Introduction
-Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science** and **Artificial Intelligence/Machine Learning**. I enjoy solving complex problems with data-driven solutions and leveraging advanced tools and techniques to uncover meaningful insights.
+Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science and Analytics**. I enjoy solving complex problems with data-driven solutions and leveraging advanced tools and techniques to uncover meaningful insights.
 
 ## Skills
 - **Programming Languages**: Python(Pandas,Numpy,Matplotlib,Seaborn), SQL
 - **Data Analysis Tools**: MS Excel, Power BI, Tableau
 - **Databases**: MySQL, MSSQL, Snowflake
-- **Cloud Platforms**: AWS(Redshift,Glue)
+- **Cloud Platforms**: AWS(S3,Amazon sageMaker,Redshift,Glue)
 - **Specialized Skills**:
   - Data Cleaning and Preprocessing
   - Data Visualization
@@ -21,7 +19,7 @@ Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science** an
 - **Power BI & Tableau**: Interactive dashboards and data visualization.
 
 ## Interests
-- **Data Science**: Exploring patterns in data, predictive modeling, and statistical analysis.
+- **Data Science and Analytics**: Exploring patterns in data, predictive modeling, and statistical analysis.
 
 ## Contact
 Feel free to connect with me to collaborate or discuss anything related to Data Science or AI/ML. I'm always eager to learn and share knowledge.
