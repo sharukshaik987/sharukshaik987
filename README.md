@@ -1,4 +1,4 @@
-# Sharuk - Data Science and AI/ML Enthusiast
+# Sharuk - Data Science and Analytics
 
 ## Introduction
 Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science** and **Artificial Intelligence/Machine Learning**. I enjoy solving complex problems with data-driven solutions and leveraging advanced tools and techniques to uncover meaningful insights.
@@ -11,7 +11,7 @@ Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science** an
 - **Specialized Skills**:
   - Data Cleaning and Preprocessing
   - Data Visualization
-  - Building and Deploying Machine Learning Models
+  - Building statistical analysis 
 
 ## Tools & Technologies
 - **MS Excel**: Data cleaning, advanced analytics, and reporting.
@@ -22,15 +22,13 @@ Hi! I'm **Sharuk**, a passionate learner and practitioner in **Data Science** an
 
 ## Interests
 - **Data Science**: Exploring patterns in data, predictive modeling, and statistical analysis.
-- **AI/ML**: Creating intelligent solutions using supervised and unsupervised learning, NLP, and deep learning.
 
 ## Contact
 Feel free to connect with me to collaborate or discuss anything related to Data Science or AI/ML. I'm always eager to learn and share knowledge.
 
 - **Email**: [sharukusa987@gmail.com]
 - **LinkedIn**: [sharuk shaik](https://www.linkedin.com/in/sharukshaik987?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvBeMShwBREaJF%2FG50X7nvA%3D%3D)
-- **GitHub**: [YourGitHubUsername](https://github.com)
+- **GitHub**: [sharukshaik987](https://github.com)
 
 ---
 
-If you'd like me to further customize this or add anything specific, let me know!
